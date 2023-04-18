@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/K2D-Bold.ttf",
+      "sha1": "f5435fa7bc6d83cc85b58cb3c525a5b937a82120"
+    },
+    {
+      "path": "src/assets/fonts/K2D-ExtraBold.ttf",
+      "sha1": "29a07fabe67eccb88a5d4b9ccc9710d3e5acce1b"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Extralight.ttf",
+      "sha1": "6e9a31e7d38d70f4872358fd501038dc8740c7d7"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Light.ttf",
+      "sha1": "094d55b800dc9f6acf0e63171ab8614c4e76efed"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Medium.ttf",
+      "sha1": "9786040497c539a685eedd5ea71814e983e4a0d3"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Regular.ttf",
+      "sha1": "19000a63df2ba5989c01fa54b902ca8dcc26ab9c"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Semibold.ttf",
+      "sha1": "700b3d43ac494cc3b204c8c65579e41f703fcddf"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Thin.ttf",
+      "sha1": "e6fbb59e93be598540ba2c757348788b84b4e5a9"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Regular.ttf",
+      "sha1": "cded5e96ac169b65519e822d4ae6428e2ada9f31"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Bold.ttf",
+      "sha1": "f5435fa7bc6d83cc85b58cb3c525a5b937a82120"
+    },
+    {
+      "path": "src/assets/fonts/K2D-ExtraBold.ttf",
+      "sha1": "29a07fabe67eccb88a5d4b9ccc9710d3e5acce1b"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Extralight.ttf",
+      "sha1": "6e9a31e7d38d70f4872358fd501038dc8740c7d7"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Light.ttf",
+      "sha1": "094d55b800dc9f6acf0e63171ab8614c4e76efed"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Medium.ttf",
+      "sha1": "9786040497c539a685eedd5ea71814e983e4a0d3"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Regular.ttf",
+      "sha1": "19000a63df2ba5989c01fa54b902ca8dcc26ab9c"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Semibold.ttf",
+      "sha1": "700b3d43ac494cc3b204c8c65579e41f703fcddf"
+    },
+    {
+      "path": "src/assets/fonts/K2D-Thin.ttf",
+      "sha1": "e6fbb59e93be598540ba2c757348788b84b4e5a9"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Regular.ttf",
+      "sha1": "cded5e96ac169b65519e822d4ae6428e2ada9f31"
+    }
+  ]
+}

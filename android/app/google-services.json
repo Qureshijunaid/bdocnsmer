@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870176039634",
+    "project_id": "bando-consumer",
+    "storage_bucket": "bando-consumer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870176039634:android:a9e40e33204e67373b830b",
+        "android_client_info": {
+          "package_name": "com.bando_consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870176039634-amsa4s9sh0dsbpr2f806197nnc34bqnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVoBkXJVALnMa94Sm8x7wc06fN3auxZ1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870176039634-amsa4s9sh0dsbpr2f806197nnc34bqnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
